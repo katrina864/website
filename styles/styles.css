@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: skyblue;
+  background-color: deepskyblue;
 }
 
 div {
@@ -41,6 +41,7 @@ div {
 }
 
 .checkboxes {
-    text-align: left;
+    position: relative;
+    vertical-align: top;
     /* padding: 20px; */
 }
