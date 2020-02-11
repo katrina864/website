@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: fuchsia;
+  background-color: skyblue;
 }
 
 div {
@@ -41,7 +41,6 @@ div {
 }
 
 .checkboxes {
-    position: relative;
-    vertical-align: top;
+    
     /* padding: 20px; */
 }
