@@ -41,6 +41,8 @@ div {
 }
 
 .checkboxes {
-    text-align: left;
-    padding: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* padding: 20px; */
 }
