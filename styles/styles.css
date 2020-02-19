@@ -84,10 +84,10 @@ body, html {
   height: 100%;
 }
 
-#Home {background-color: red;}
-#News {background-color: green;}
-#Contact {background-color: blue;}
-#About {background-color: orange;}
+#Home {background-color: lightcyan;}
+#News {background-color: peachpuff;}
+#Contact {background-color: silver;}
+#About {background-color: thistle;}
 
 
 .tabcontent {
