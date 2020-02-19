@@ -152,12 +152,12 @@ body, html {
 }
 
 .menu {
-  background-color: deepskyblue;
+  background-color: lightsteelblue;
   color: white;
   border: none;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  font-size: 17px;
-  width: 25%;
+  font-size: 20px;
+  width: 12%;
 }
