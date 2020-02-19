@@ -154,7 +154,7 @@ body, html {
 .menu {
   background-color: lightsteelblue;
   color: white;
-  border: none;
+  border: medium solid black;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
